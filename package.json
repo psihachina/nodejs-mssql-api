@@ -11,7 +11,7 @@
     "body-parser": "^1.13.2",
     "compression": "^1.4.3",
     "cors": "^2.8.5",
-    "express": "^4.13.1",
+    "express": "^4.17.3",
     "http": "0.0.0",
     "path": "^0.11.14",
     "tedious": "^1.11.2",
